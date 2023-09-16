@@ -1,2 +1,6 @@
 env
 data/
+embeddings/
+video/
+clip-features-vit-b32/
+.ipynb_checkpoints/
