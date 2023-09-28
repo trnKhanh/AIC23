@@ -4,3 +4,10 @@ embeddings/
 video/
 clip-features-vit-b32/
 .ipynb_checkpoints/
+main.cpp
+map-keyframes/
+objects/
+queries/
+query-3.csv
+submissions/
+writeQuery
