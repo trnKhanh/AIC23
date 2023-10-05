@@ -6,7 +6,6 @@ res = requests.post(url="https://eventretrieval.one/api/v1/login",
                         "password": "AiL2Oaf8"
                     })
 sessionId = res.json()["sessionId"]
-print(sessionId)
 
 _ = 1
 while (True):
